@@ -1,0 +1,21 @@
+.home-town{
+  background-color: blue;
+  border: 50px solid red;
+  border-radius: 20px;
+  padding: 20px;
+  width: 50%;
+  height: 300px;
+  margin:20px auto;
+}
+
+.title{
+  text-align: center;
+}
+
+.home-town p{
+  text-align: justify;
+}
+
+.name{
+  color: red;
+}
